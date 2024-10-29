@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spicy Chicken Stir-fry",
+      "recipe_img": "https://i.ibb.co.com/kD7rD3K/fresh-grill-bbq-chicken.jpg",
+      "short_description": "A flavorful dish from Asian cuisine with Spicy Chicken.",
+      "ingredients": ["500 gm chicken", "120 ml soy sauce", "100 gm carrot", "50 gm bell peppers", "1 tbsp garlic"],
+      "preparing_time": "25",
+      "calories": "350"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Classic Margherita Pizza",
+      "recipe_img": "https://i.ibb.co.com/S7hg5vM/top-view-whole-pepperoni-pizza-with-sesame-sprinkles-top.jpg",
+      "short_description": "Originating from Italy, the Classic Margherita Pizza",
+      "ingredients": ["200 gm pizza dough", "5 fresh basil leaves", "50 ml olive oil"],
+      "preparing_time": "30",
+      "calories": "500"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegan Buddha Bowl",
+      "recipe_img": "https://i.ibb.co.com/NCKPbY5/salad-from-tomatoes-cucumber-red-onions-lettuce-leaves-healthy-summer-vitamin-menu-vegan-vegetable-f.jpg",
+      "short_description": "A colorful, nutrient-packed bowl rooted in modern health",
+      "ingredients": ["100 gm quinoa", "50 gm chickpeas", "1 avocado", "50 gm spinach", "30 gm sunflower seeds", "2 tbsp olive oil"],
+      "preparing_time": "20",
+      "calories": "400"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Creamy Garlic Shrimp Pasta",
+      "recipe_img": "https://i.ibb.co.com/FWB5hDT/ai-generated-pasta.jpg",
+      "short_description": "A rich and indulgent pasta dish from Italian-American cuisine.",
+      "ingredients": ["200 gm shrimp", "150 gm pasta", "100 ml cream", "2 cloves garlic"],
+      "preparing_time": "30",
+      "calories": "600"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_img": "https://i.ibb.co.com/Bygz1D0/delicious-cookies-arrangement.jpg",
+      "short_description": "A classic dessert originating from the USA",
+      "ingredients": ["200 gm flour", "50 gm sugar", "2 eggs", "1 tsp vanilla extract", "1 tsp baking powder"],
+      "preparing_time": "20",
+      "calories": "250"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Mediterranean Salad",
+      "recipe_img": "https://i.ibb.co.com/g4MrrBy/front-view-vegetable-salad-consists-cucumber-cheese-tomatoes-dark-blue-background.jpg",
+      "short_description": "Inspired by the fresh flavors of the Mediterranean",
+      "ingredients": ["100 gm cucumber", "30 ml olive oil", "1/2 red onion", "1 tbsp lemon juice", "1 tsp oregano"],
+      "preparing_time": "15",
+      "calories": "180"
+    }
+  ]
+  
